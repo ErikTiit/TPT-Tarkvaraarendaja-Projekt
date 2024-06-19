@@ -1,0 +1,19 @@
+.internship-listing {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.internship-listing-item {
+    margin-bottom: 10px;
+}
+
+.internship-listing h3 {
+    margin: 0;
+}
+
+.internship-listing p {
+    margin: 0;
+}

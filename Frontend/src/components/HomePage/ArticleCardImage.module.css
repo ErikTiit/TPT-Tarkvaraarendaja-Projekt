@@ -1,0 +1,21 @@
+.card {
+    width: 300px; /* adjust as needed */
+    height: 400px; /* adjust as needed */
+    transition: transform 150ms ease, box-shadow 150ms ease;
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+
+    &:hover {
+        transform: scale(1.01);
+        box-shadow: var(--mantine-shadow-md);
+    }
+}
+
+.title {
+    font-weight: bold;
+}
+.disabled {
+    filter: grayscale(100%);
+    pointer-events: none;
+  }

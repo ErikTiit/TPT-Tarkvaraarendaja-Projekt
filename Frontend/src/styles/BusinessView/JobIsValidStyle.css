@@ -1,0 +1,8 @@
+.JobIsValidCard {
+  width: 100%;
+  min-width: 61.5vw;
+  margin-bottom: 20px;
+  border: #d9d9d96b solid 1px !important;
+  padding-left: 4.3% !important;
+  padding-right: 4.3% !important;
+}

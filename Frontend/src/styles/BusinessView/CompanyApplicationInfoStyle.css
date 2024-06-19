@@ -1,0 +1,20 @@
+/* #d9d9d933;
+#333333
+#d9d9d96b
+PT Sans-Bold, Helvetica */
+
+.ApplicationInfoHeader {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.ApplicationInputArea {
+    width: calc(61.5vw * 0.44);
+}
+.CompanyInfoCard {
+    width: 100%;
+    min-width: 61.5vw;
+    margin-bottom: 20px;
+    border: #d9d9d96b solid 1px !important;
+}

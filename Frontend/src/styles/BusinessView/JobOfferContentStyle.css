@@ -1,0 +1,19 @@
+.JobOfferContentHeader {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.JobOfferCard {
+    width: 100%;
+    min-width: 61.5vw;
+    margin-bottom: 20px;
+    border: #d9d9d96b solid 1px !important;
+    padding-left: 4.3%;
+    padding-right: 4.3%;
+}
+
+.TextAreaStyling {
+    height: auto;
+    margin-bottom: 10px;
+}

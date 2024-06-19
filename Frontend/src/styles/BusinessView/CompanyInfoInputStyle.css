@@ -1,0 +1,16 @@
+.CompanyInfoHeader {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+.InfoInputArea {
+  width: calc(61.5vw * 0.44);
+}
+
+.InfoInputCard {
+  width: 100%;
+  min-width: 61.5vw;
+  margin-bottom: 20px;
+  border: #d9d9d96b solid 1px !important;
+}

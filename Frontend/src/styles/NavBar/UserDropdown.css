@@ -1,0 +1,32 @@
+.user-dropdown {
+    position: relative;
+}
+
+.user-dropdown img {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 90px;
+}
+
+.user-dropdown ul {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    list-style: none;
+    padding: 0;
+}
+.user-dropdown li {
+    padding: 10px;
+}
+
+.user-dropdown a {
+    text-decoration: none;
+    color: #000;
+}
+
+.user-dropdown a:hover {
+    color: #007BFF;
+}

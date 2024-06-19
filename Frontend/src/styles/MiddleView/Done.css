@@ -1,0 +1,41 @@
+.Done-Text {
+    /* Done Text style */
+    font-family: PT Sans-Bold, Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.Done-StudentView {
+    /* StudentView Button style */
+    background-color: #d9d9d96b;
+    font-family: PT Sans-Bold, Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    border: 30%;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 30vh; /* Adjust this value as needed */
+    left: 10%;
+    border-radius: 15px;
+}
+
+.Done-BuisnessView {
+    /* Buisness Button style */
+    background-color: #d9d9d96b;
+    font-family: PT Sans-Bold, Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    border: 30%;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 30vh; /* Adjust this value as needed */
+    right: 10%;
+    border-radius: 15px;
+}

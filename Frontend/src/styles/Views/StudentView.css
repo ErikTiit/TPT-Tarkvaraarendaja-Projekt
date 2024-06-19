@@ -1,0 +1,38 @@
+body {
+    border-radius: 15px;
+    margin: 50px;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+  
+.app-container {
+    background-color: white;
+    border-radius: 15px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.student-content-container {
+    display: flex;
+}
+
+.student-content-left {
+    flex: 0 0 50%;
+    min-width: 70vh;
+    min-height: 90vh;
+}
+
+
+.student-content-right {
+    flex: 0 0 50%;
+}
+
+.switch-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
